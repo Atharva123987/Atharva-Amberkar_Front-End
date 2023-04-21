@@ -124,4 +124,5 @@ const List = memo(WrappedListComponent);
 export default List;
 
 ```
-
+# Deployment 
+Deployed on [Vercel🔗](https://steeleye-frontend.vercel.app/)
