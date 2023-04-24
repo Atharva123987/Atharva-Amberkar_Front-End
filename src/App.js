@@ -11,9 +11,7 @@ const fakeData = [
 
 const App = () => {
   return (
-    <div>
       <List items={fakeData} />
-    </div>
   );
 };
 

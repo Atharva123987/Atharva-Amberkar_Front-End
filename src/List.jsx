@@ -1,6 +1,6 @@
 import React, { useState, useEffect, memo, useCallback } from 'react';
 import PropTypes from 'prop-types';
-
+import './list.css'
 const WrappedSingleListItem = ({
   index,
   isSelected,
